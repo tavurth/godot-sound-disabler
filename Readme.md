@@ -9,6 +9,8 @@
 
 This project does not currently work because Godot does not seem to respect the Audio driver setup in the editor.
 
+https://github.com/godotengine/godot/issues/58096
+
 # Setup
 
 1.  Copy the `addons` folder into your project
